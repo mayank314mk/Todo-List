@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+    --font-monster: "Montserrat", sans-serif;
+    --font-poppins: "Poppins", sans-serif;
+}
+
+body {
+    background-color: black;
+    color: rgb(228, 228, 228);
+    font-family: "Montserrat";
+}
